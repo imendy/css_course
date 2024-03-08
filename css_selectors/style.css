@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+
+}
+
+
+/* h2 {
+    color: yellow
+} */
+
+.first-h2 {
+    color: yellow   
+}
+
+
+#third {
+    background-color: blueviolet;
+    color: white;
+}
+
+
+input[type="submit"] {
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+
+input:hover {
+  background-color: blue;
+}
+
+.gray::first-letter {
+    font-size: 70px;
+    color: brown;
+}
+
+
+
